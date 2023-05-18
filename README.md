@@ -10,4 +10,21 @@ Aparat.com Scraper And Follower Bot | selenium
 نصب و اجراش ساده است
 
 1. توی متغییر `password` و `username` اطلاعات اکانت رو وارد کنید.
-2. 
+2. درایور کروم رو دانلود کنید از [این لینک](https://chromedriver.chromium.org/downloads) و توی C:\ قرار بدید.یا هرجای دیگه(باید ادرس اش رو توی کد عوض کنید)
+3. یه فایل گیم لیست gamelist.txt هم توی درایو سی یا هر جای دیگه ای ایجاد کنید و موضوعاتی که میخواهید ربات براتون سرچ کنه رو توش بنویسید (هر خط یک موضوع) واسه تغییر لوکیشن فایل هم [این خط](https://github.com/DeAref/aparater/blob/ce3f5c3008b207db011bbeb9adbc1b138c33b222/app.py#L53) از کد رو ادیت کنید.
+4. پایتون رو از [وب سایت رسمیش](https://www.python.org/downloads/) دانلود و نصب کنید:
+
+![image](https://github.com/DeAref/aparater/assets/95649368/fa3530ea-90f8-4356-86b0-8f88d19846b0)
+حواستون باشه add pythonPATH هم تیکشو بزنید.
+
+5. با دستور `pip install selenium` سلنیوم رو نصب کنید.
+6. حالا کافیه اسکریپت رو اجرا کنید...
+
+----------------
+* این اسکریپت رو من 4 سال پیش نوشتم و الان دیدمش تو فایلا گفتم بزارم تو گیتهابم ، طبیعیه که ایراد داشته باشه ، اگر مشکلی پیدا کردید یا ایده جدیدی اضافه کردید خوشحال میشم پول ریکوست بزنید اسکریپت کامل تر بشه.
+* یه نکته ای هم که هست اینه که ممکنه با توجه به سرعت اینترنت و لود صفحه اسکریپت در برخی سیستم ها متفاوت کار کنه. اگه مشکل داشتید اندازه اسکرول و اسلیپ رو کم و زیاد کنید.
+
+# contactus
+### [DeAref.t.me](https://DeAref.t.me)
+### [Aref@post.ir](mailto://aref@post.ir)
+### [linkedin](https://www.linkedin.com/in/dearef/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BBLgvjQJ%2FRFCAjQvdphK8rg%3D%3D)
