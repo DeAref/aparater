@@ -29,8 +29,8 @@ while True:
         #requests.get(send+'login process is start')
         #-----login
         time.sleep(3)
-        username = "appduny"
-        password = "AppDuny1234"
+        username = "OURUSERNAME"
+        password = "yOURPASSWORD"
         field = driver2.find_element_by_id('username')
         field.send_keys(username)
         print('user name insert')
@@ -41,7 +41,7 @@ while True:
         print('password insert')
         #requests.get(send+'password insert')
         driver2.find_element_by_xpath('//*[@id="main-container"]/section/div/div[1]/form/button').click()
-        print('login process is Complet')
+        print('login process is Complete')
         #requests.get(send+'login process is Complet')
 
         #scrape and follow and like
@@ -85,7 +85,7 @@ while True:
 
                     #save id link if users
                     f = open('C:\idlink.txt', 'a')
-                    print('apeand file')
+                    print('append file')
                     f.writelines('\n'+user_links)
                     print('close file')
                     f.close()
@@ -102,8 +102,8 @@ while True:
                 driver2.get(loginPage_url)
                 #login Agian
                 time.sleep(3)
-                username = "appduny"
-                password = "AppDuny1234"
+                username = "yourusername"
+                password = "yourPASSWORD"
                 field = driver2.find_element_by_id('username')
                 field.send_keys(username)
                 print('user name insert')
@@ -123,7 +123,7 @@ while True:
 
 
 
-        print('scarp complte')
+        print('progress Complete')
         #requests.get(send+'scarp complte')
         #driver.switch_to_window(window_before)
         #window_before = driver.window_handles[0]
@@ -141,7 +141,7 @@ while True:
 
 
 
-    print('scarp complte')
+    print('progress complte')
 
 
 
