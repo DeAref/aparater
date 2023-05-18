@@ -15,7 +15,8 @@ Aparat.com Scraper And Follower Bot | selenium
 3. یه فایل گیم لیست gamelist.txt هم توی درایو سی یا هر جای دیگه ای ایجاد کنید و موضوعاتی که میخواهید ربات براتون سرچ کنه رو توش بنویسید (هر خط یک موضوع) واسه تغییر لوکیشن فایل هم [این خط](https://github.com/DeAref/aparater/blob/ce3f5c3008b207db011bbeb9adbc1b138c33b222/app.py#L53) از کد رو ادیت کنید.
 4. پایتون رو از [وب سایت رسمیش](https://www.python.org/downloads/) دانلود و نصب کنید:
 
-![image](https://github.com/DeAref/aparater/assets/95649368/fa3530ea-90f8-4356-86b0-8f88d19846b0)
+<img src="https://github.com/DeAref/aparater/assets/95649368/190cb579-3515-4d5e-9859-f6099b2571cd" data-canonical-src="https://github.com/DeAref/aparater/assets/95649368/190cb579-3515-4d5e-9859-f6099b2571cd" height="200" />
+
 حواستون باشه add pythonPATH هم تیکشو بزنید.
 
 5. با دستور `pip install selenium` سلنیوم رو نصب کنید.
