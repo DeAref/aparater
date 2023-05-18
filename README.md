@@ -27,4 +27,4 @@ Aparat.com Scraper And Follower Bot | selenium
 # contactus
 ### [DeAref.t.me](https://DeAref.t.me)
 ### [Aref@post.ir](mailto://aref@post.ir)
-### [linkedin](https://www.linkedin.com/in/dearef/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BBLgvjQJ%2FRFCAjQvdphK8rg%3D%3D)
+### [linkedin](https://www.linkedin.com/in/dearef)
