@@ -10,7 +10,7 @@ while True:
     try:
         countgamelist += 1
         counter = 1
-        #send='https://api.telegram.org/bot1429170251:AAHZ-daLFm7-KwPiyNAu_G7UzoKxIyss74M/sendMessage?chat_id=-552265330&text='
+        #send='https://api.telegram.org/bot1429170251:AAHZ-daLFm7-KwPiyNAu_C7UzoKxIyss24M/sendMessage?chat_id=-552265330&text='
         #requests.get(send+'bot start')
         #os.system("curl  "+send)
         #frist url and start drivers
