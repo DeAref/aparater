@@ -1,4 +1,5 @@
-# aparater
+# aparater <img src="[https://camo.githubusercontent.com/...](https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Aparat_logo_colour.svg/1200px-Aparat_logo_colour.svg.png)" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Aparat_logo_colour.svg/1200px-Aparat_logo_colour.svg.png)" width="200"/>
+
 Aparat.com Scraper And Follower Bot | selenium
 
 ### کارش چیه؟
